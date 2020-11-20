@@ -1,0 +1,3 @@
+Data - bank-full.csv, bank-cleaned.csv
+Documenation - Capstone 2.pdf, Capstone 2.pptx
+Jupyter Notebooks - Capstone Cleaning and EDA.ipynb, Capstone Modeling.ipynb
